@@ -12,6 +12,11 @@ body{
     overflow: hidden;
   }
 
+img{
+    width: 50%;
+    height: auto;
+}
+
   .responsive {
       max-width: 75%;
       height: auto;
